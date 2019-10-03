@@ -155,23 +155,28 @@ h5 {
 h1 {
   font-size: 80px;
 }
+
 .container {
   margin: 0 auto;
   width: 980px;
 }
+
 .navig {
   display: flex;
 }
+
 nav {
   display: flex;
   width: 650px;
   margin-top: 35px;
   justify-content: space-between;
 }
+
 .container nav a {
   text-decoration: none;
   color: lightgrey;
 }
+
 .logo {
   align-items: baseline;
   margin: 20px 0px 0px 70px;
@@ -188,11 +193,13 @@ nav {
 .title div {
   text-align: center;
 }
+
 .title div h1 {
   width: 150%;
   margin-top: 20%;
   padding-right: 100px;
 }
+
 .title div p {
   width: 190px;
   border: 1px solid black;
@@ -203,11 +210,11 @@ nav {
 .features {
   display: flex;
   border-top: 1px solid black;
-
   width: 90%;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
 footer {
   padding-top: 30px;
 }
@@ -216,6 +223,7 @@ footer div p {
   text-align: center;
   margin: 100px 0px 150px 0px;
 }
+
 .services {
   display: flex;
   border-bottom: 1px solid black;
@@ -224,6 +232,7 @@ footer div p {
   padding-bottom: 30px;
   padding-top: 30px;
 }
+
 .services div {
   width: 30%;
 }
